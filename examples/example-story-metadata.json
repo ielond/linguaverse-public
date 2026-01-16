@@ -1,0 +1,13 @@
+{
+  "storyId": "example-a2-park-001",
+  "language": "it",
+  "cefrLevel": "A2",
+  "estimatedDifficultyBand": "A2-mid",
+  "title": "Al parco",
+  "wordCount": 320,
+  "features": {
+    "primaryTenses": ["present", "past"],
+    "sentenceLength": "short-to-medium",
+    "newVocabularyIntroduced": "low"
+  }
+}
